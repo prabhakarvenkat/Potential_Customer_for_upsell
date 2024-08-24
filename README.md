@@ -100,18 +100,15 @@ This project is used by the following company:
  ### COGNIZANT
 ![](https://github.com/prabhakarvenkat/Potential_Customer_for_upsell/blob/4f1ba9a3b0e251d4a482cff767e11512e7c07e6d/assets/cognizant.jpg)
 
-<html>
-  <head></head>
-  <body>
-<h2>Contributing</h2>
-  <p>If you would like to contribute to this project, please follow these guidelines:</p>
-  <ol>
-    <li>Fork the repository</li>
-    <li>Create a new branch for your feature or bug fix</li>
-    <li>Submit a pull request with a detailed description of your changes</li>
-  </ol>
-  
-  <h2>License</h2>
-  <p>This project is licensed under PRABHAKAR and his team. See the <a href="LICENSE">LICENSE</a> file for more information.</p>
-</body>
-</html>
+## Contributing
+
+If you would like to contribute to this project, please follow these guidelines:
+
+1. Fork the repository
+2. Create a new branch for your feature or bug fix
+3. Submit a pull request with a detailed description of your changes
+
+## License
+
+This project is licensed under the [Team](https://github.com/prabhakarvenkat/Potential_Customer_for_upsell?tab=readme-ov-file#developers). See the [LICENSE](LICENSE) file for more information.
+
