@@ -110,5 +110,5 @@ If you would like to contribute to this project, please follow these guidelines:
 
 ## License
 
-This project is licensed under the [Team](https://github.com/prabhakarvenkat/Potential_Customer_for_upsell?tab=readme-ov-file#developers). See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the [Team](#developers). See the [LICENSE](LICENSE) file for more information.
 
